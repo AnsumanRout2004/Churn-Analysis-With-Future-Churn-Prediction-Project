@@ -6,14 +6,15 @@
 🎥 Watch Project Demo
 
 📷 Dashboard Preview
+![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001617.png)
 
-📷 Dashboard Preview 📷 Dashboard Preview 📷 Dashboard Preview 📷 Dashboard Preview 📷 Dashboard Preview 📷 Churn Analysis Power BI Project
+![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001659.png )
 
-(Add screenshots of your Power BI dashboards below for better visualization)
+![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001728.png )
 
-![Dashboard Preview 1](path_to_your_image/dashboard1.png)
-![Dashboard Preview 2](path_to_your_image/dashboard2.png)
-![Dashboard Preview 3](path_to_your_image/dashboard3.png)
+![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001748.png )
+
+![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001818.png )
 
 📌 Project Overview
 

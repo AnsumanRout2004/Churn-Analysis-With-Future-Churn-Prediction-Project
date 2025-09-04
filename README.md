@@ -8,13 +8,10 @@
 📷 Dashboard Preview
 ![Dashboard Preview](https://github.com/AnsumanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project/blob/main/IMG-20250904-WA0007%5B1%5D.png)
 
-![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001659.png )
+![Dashboard Preview](https://github.com/AnsumanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project/blob/main/IMG-20250904-WA0009%5B1%5D.png)
 
 ![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001728.png )
 
-![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001748.png )
-
-![Dashboard Preview](https://github.com/AnsumanRout2004/OLA-PROJECT--Identified-the-reason-trend-for-ride-Cancellation/blob/main/Screenshot%202025-06-19%20001818.png )
 
 📌 Project Overview
 

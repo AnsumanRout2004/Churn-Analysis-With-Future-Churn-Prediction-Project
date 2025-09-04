@@ -1,7 +1,7 @@
 # Churn-Analysis-With-Future-Churn-Prediction-Project
 📈 Churn Analysis & Future Churn Prediction Project
 
-📌 GitHub Repository Link
+📌 GitHub Repository Link : https://github.com/AnsumanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project
 
 🎥 Watch Project Demo
 

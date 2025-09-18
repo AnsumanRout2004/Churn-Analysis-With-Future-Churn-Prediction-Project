@@ -3,8 +3,6 @@
 
 📌 GitHub Repository Link : https://github.com/AnsumanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project
 
-🎥 Watch Project Demo:  https://github.com/AnsumanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project/blob/main/Churn%20Analysis%20Project%20Dekstop%20Power%20BI.pbix
-
 📷 Dashboard Preview
 ![Dashboard Preview](https://github.com/AnsumanRout2004/Churn-Analysis-With-Future-Churn-Prediction-Project/blob/main/IMG-20250904-WA0007%5B1%5D.png)
 

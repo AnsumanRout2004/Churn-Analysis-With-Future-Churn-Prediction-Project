@@ -49,7 +49,7 @@ Power BI for building interactive dashboards
 
 📂 Dataset Details
 
-Dataset Size: 50,000+ customer records
+Dataset Size: 1,90,000+ customer data
 
 Columns Include:
 
